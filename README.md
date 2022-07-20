@@ -1,4 +1,4 @@
-# University Template Of Multiple page
+# University Website with Multiple Pages
 
 #### By Vivek Gupta
 
