@@ -1,1 +1,1 @@
-click here to visit - https://sharma572.github.io/HTML-CSS-Project---HTML-CSS-Mini-Project---vlhva4xirtk7/
+click here to visit - https://github.com/thewisdomgupta/Stuff/deployments/activity_log?environment=github-pages
