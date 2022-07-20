@@ -10,10 +10,10 @@
     <tr>
         <th>
             SI No.
-            <th>
+            </th>
                 <th>
             SI No.
-            <th>
+            </th>
     </tr>
     <tr>
         <td>
