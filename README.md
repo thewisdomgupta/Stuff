@@ -5,6 +5,26 @@
 #### This Webpage is showing information about Education of University 
 
 ## Technologies Used
+
+<table>
+    <tr>
+        <th>
+            SI No.
+            <th>
+                <th>
+            SI No.
+            <th>
+    </tr>
+    <tr>
+        <td>
+            1.
+        </td>
+        <td>
+            1.
+        </td>
+    </tr>
+    
+ </table>
     
 
 * HTML
