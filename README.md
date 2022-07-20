@@ -43,13 +43,13 @@
  </table>
     
 
+## Description
+This webpage is responsive & having 4 pages Home , About, Contact & Courses. This Website is a short demo about the University.
+I have used below front-end technologies to make this website:
+
 * HTML
 * CSS
 * CSS (media queries)
-* Javascript
-
-## Description
-This webpage is responsive & having 4 pages Home , About, Contact & Courses
 
 ## Click For Preview
 <a href="https://thewisdomgupta.github.io/Stuff/">Visit University Website<a>
