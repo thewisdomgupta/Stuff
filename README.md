@@ -12,7 +12,7 @@
             SI No.
             </th>
                 <th>
-            SI No.
+            Technology Used
             </th>
     </tr>
     <tr>
@@ -20,7 +20,23 @@
             1.
         </td>
         <td>
-            1.
+            HTML
+        </td>
+    </tr>
+    <tr>
+        <td>
+            2.
+        </td>
+        <td>
+            CSS
+        </td>
+    </tr>
+    <tr>
+        <td>
+            3.
+        </td>
+        <td>
+            CSS (Media Queries)
         </td>
     </tr>
     
